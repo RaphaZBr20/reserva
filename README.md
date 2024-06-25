@@ -1,9 +1,24 @@
-# Treinando comandos do Git
+# Projeto Reserva
 
-### Disciplina:
+## Projeto prático API Restful Nodejs e MongoDB
 
- _Linguagem de programação_ - **CARLPRO**
+### Desenvolvido em Node.js (versão 20.10)
 
- treinamento de comandos git como parte do aprendizado de
- 
- Homework Node.JS
+Projeto criado na Linguagem de Programação
+Curso: Técnico de Informática Integrado ao Ensino Médio
+Instituto federal de São Paulo - Campus Caraguatatuba
+
+#### Pacotes Utilizados
+
+* nodemon
+* express
+* sucrase
+* dotenv
+* mongoose
+* multer
+* yup
+* cors
+
+#### Banco de Dados: MongoDB
+
+Autor: **Raphael França Ceia**
